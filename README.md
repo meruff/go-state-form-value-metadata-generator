@@ -1,0 +1,2 @@
+# State Form Value Metadata Generator 
+A simple Go app used to generate state picklist values for forms. This used to be a hard-coded Map of strings. Note that you'll need to change the filepath to the .csv you want to use and the filepath where you want the metadata to be generated in.

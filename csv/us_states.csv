@@ -1,0 +1,63 @@
+Label,Name,Integration_Value__c,Country__c
+Alabama,Alabama,AL,United States
+Alaska,Alaska,AK,United States
+American Samoa,American_Samoa,AS,United States
+Arizona,Arizona,AZ,United States
+Arkansas,Arkansas,AR,United States
+California,California,CA,United States
+Colorado,Colorado,CO,United States
+Connecticut,Connecticut,CT,United States
+Delaware,Delaware,DE,United States
+District of Columbia,District_of_Columbia,DC,United States
+Federated States Of Micronesia,Federated_States_Of_Micronesia,FM,United States
+Florida,Florida,FL,United States
+Georgia,Georgia,GA,United States
+Guam,Guam,GU,United States
+Hawaii,Hawaii,HI,United States
+Idaho,Idaho,ID,United States
+Illinois,Illinois,IL,United States
+Indiana,Indiana,IN,United States
+Iowa,Iowa,IA,United States
+Kansas,Kansas,KS,United States
+Kentucky,Kentucky,KY,United States
+Louisiana,Louisiana,LA,United States
+Maine,Maine,ME,United States
+Marshall Islands,Marshall_Islands,MH,United States
+Maryland,Maryland,MD,United States
+Massachusetts,Massachusetts,MA,United States
+Michigan,Michigan,MI,United States
+Minnesota,Minnesota,MN,United States
+Mississippi,Mississippi,MS,United States
+Missouri,Missouri,MO,United States
+Montana,Montana,MT,United States
+Nebraska,Nebraska,NE,United States
+Nevada,Nevada,NV,United States
+New Hampshire,New_Hampshire,NH,United States
+New Jersey,New_Jersey,NJ,United States
+New Mexico,New_Mexico,NM,United States
+New York,New_York,NY,United States
+North Carolina,North_Carolina,NC,United States
+North Dakota,North_Dakota,ND,United States
+Northern Mariana Islands,Northern_Mariana_Islands,MP,United States
+Ohio,Ohio,OH,United States
+Oklahoma,Oklahoma,OK,United States
+Oregon,Oregon,OR,United States
+Palau,Palau,PW,United States
+Pennsylvania,Pennsylvania,PA,United States
+Puerto Rico,Puerto_Rico,PR,United States
+Rhode Island,Rhode_Island,RI,United States
+South Carolina,South_Carolina,SC,United States
+South Dakota,South_Dakota,SD,United States
+Tennessee,Tennessee,TN,United States
+Texas,Texas,TX,United States
+Utah,Utah,UT,United States
+Vermont,Vermont,VT,United States
+Virgin Islands,Virgin_Islands,VI,United States
+Virginia,Virginia,VA,United States
+Washington,Washington,WA,United States
+West Virginia,West_Virginia,WV,United States
+Wisconsin,Wisconsin,WI,United States
+Wyoming,Wyoming,WY,United States
+US Armed Forces Americas,US_Armed_Forces_Americas,AA,United States
+US Armed Forces Europe,US_Armed_Forces_Europe,AE,United States
+US Armed Forces Pacific,US Armed_Forces_Pacific,AP,United States
